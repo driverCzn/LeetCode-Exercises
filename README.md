@@ -4,6 +4,7 @@
 | ------------------------------------------------------------ | ---- |
 | [036. Valid Sudoku](https://github.com/driverCzn/LeetCode-Exercises/blob/master/036.%20Valid%20Sudoku.md) | 中   |
 | [053. Maximum Subarray](https://github.com/driverCzn/LeetCode-Exercises/blob/master/053.%20Maximum%20Subarray.md) | 易   |
+| [061. Rotate List](https://github.com/driverCzn/LeetCode-Exercises/blob/master/061.%Rotate%20List.md) | 中   |
 | [062. Unique Paths](https://github.com/driverCzn/LeetCode-Exercises/blob/master/062.%20Unique%20Paths.md) | 中   |
 | [063. Unique Paths II](https://github.com/driverCzn/LeetCode-Exercises/blob/master/063.%20Unique%20Paths%20II.md) | 中   |
 
