@@ -8,5 +8,5 @@
 | [062. Unique Paths](https://github.com/driverCzn/LeetCode-Exercises/blob/master/062.%20Unique%20Paths.md) | 中   |
 | [063. Unique Paths II](https://github.com/driverCzn/LeetCode-Exercises/blob/master/063.%20Unique%20Paths%20II.md) | 中   |
 | [083. Remove Duplicates from Sorted List](https://github.com/driverCzn/LeetCode-Exercises/blob/master/083.%20Remove%20Duplicates%20from%20Sorted%20List.md) | 易   |
-
+| [206. Reverse Linked List](https://github.com/driverCzn/LeetCode-Exercises/blob/master/206.%20Reverse%20Linked%20List.md) | 易   |
 
